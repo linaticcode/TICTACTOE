@@ -1,3 +1,3 @@
 # TICTACTOE
 
-Users will b eable play the game very efficiently 
+Users will be able to play the game very efficiently 
